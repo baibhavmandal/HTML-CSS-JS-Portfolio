@@ -5,31 +5,18 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 
 This is Prologue, a simple, single page responsive site template. It features a
 clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+This Prologue was downloaded by BMDev.Studio to build a single page portfolio for
+Kundan Kumar.
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+Updates:
+(* by BMDev.Studio)
 
-http://ineedchemicalx.deviantart.com/
+	Phone number, social medial links and gmail of Kundan Kumar is copied on clip-
+	board if click on social media icons.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
-
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
-
-(* = Not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
+	We can veiw full images of kundan if we click the images on the page.
 
 Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fontawesome.io)
@@ -37,4 +24,4 @@ Credits:
 	Other
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Responsive Tools (github.com/ajlkn/responsive-tools) 		
